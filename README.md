@@ -1,1 +1,8 @@
-# 3c-dok-2122
+# Moja prva stranka Hello world
+
+lorem blablabla
+
+## cooo
+- ja
+- fotky
+- neviem
